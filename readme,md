@@ -1,0 +1,11 @@
+# Simple CLI Calculator
+A basic calculator that runs in the terminal.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## How to Run
+python calculator.py
